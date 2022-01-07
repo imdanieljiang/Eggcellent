@@ -1,6 +1,6 @@
 # Eggcellent
 
-A website for a restaurant that specializes in egg dishes. The website was created in JavaScript, React.js, and Tailwind CSS.
+A website for a restaurant that specializes in egg dishes. The website was created in HTML, JavaScript, React.js, and Tailwind CSS.
 
 The website is currently deployed on GitHub pages here: https://imdanieljiang.github.io/Eggcellent/
 
