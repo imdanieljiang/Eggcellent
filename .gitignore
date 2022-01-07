@@ -1,0 +1,5 @@
+# Doesn't include the node modules packages
+node_modules
+
+# Don't include Mac files
+*.DS_Store
