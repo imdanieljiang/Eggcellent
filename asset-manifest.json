@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Eggcellent/static/css/main.59077195.css",
+    "main.js": "/Eggcellent/static/js/main.8e109054.js",
+    "static/js/787.06d63091.chunk.js": "/Eggcellent/static/js/787.06d63091.chunk.js",
+    "static/media/egg.jpg": "/Eggcellent/static/media/egg.4d911d051faadc659fa4.jpg",
+    "static/media/egg-2.jpg": "/Eggcellent/static/media/egg-2.b8045f993804129ac790.jpg",
+    "index.html": "/Eggcellent/index.html",
+    "main.59077195.css.map": "/Eggcellent/static/css/main.59077195.css.map",
+    "main.8e109054.js.map": "/Eggcellent/static/js/main.8e109054.js.map",
+    "787.06d63091.chunk.js.map": "/Eggcellent/static/js/787.06d63091.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59077195.css",
+    "static/js/main.8e109054.js"
+  ]
+}
